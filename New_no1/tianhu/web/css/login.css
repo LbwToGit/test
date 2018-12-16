@@ -1,0 +1,74 @@
+
+*{
+    margin: auto;
+    font: 12px/1.5 "Microsoft YaHei",tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif
+}
+#bodye{
+    height: 100%;
+    width: 100%;
+}
+#top{
+    padding:22px 0px;
+    height: 100px;
+    width: 100%;
+}
+#center{
+    width: 100%;
+    height: 605px;
+}
+.user{
+    height: 70%;
+    width: 30%;
+    float:right;
+    margin: 100px;
+}
+.user_top{
+    height: 25%;
+    width: 100%;
+    margin: auto;
+}
+.erwm{
+    width: 30%;
+    height: 100%;
+    color: black;
+    display: inline;
+    float: right;
+}
+.glyphicon-qrcode{
+    font-size: 100px;
+    text-align: center;
+}
+.sa{
+    width: 42%;
+    height: 20px;
+    display: inline;
+    float: right;
+    margin: 20px;
+    background: honeydew;
+}
+.glyphicon-align-left{
+    font-size: 15px;
+}
+.user_bootn{
+    height: 60%;
+    width: 100%;
+    margin-top:35px ;
+}
+.user_bootn input{
+    width: 200px;
+    height: 46px;
+}
+.user_bootn tr{
+    margin: 20px;
+}
+.pc-footer-lin{
+    text-align: center;
+}
+
+.user{
+    background: #eee;
+}
+.glyphicon-blackboard{
+    font-size: 100px;
+    text-align: center;
+}
